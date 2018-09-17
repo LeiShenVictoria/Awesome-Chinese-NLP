@@ -258,7 +258,9 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/) 对于给定的一句中文问题，问答系统从给定知识库中选择若干实体或属性值作为该问题的答案。
 
 - [2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/) 针对中文的真实客服语料，进行问句意图匹配；给定两个语句，判定两者意图是否相近。
-  
+
+- [2018 中文文本推理大赛](https://competitions.codalab.org/competitions/19911) 给定一个前提中文句子和一个假设中文句子，进行文本推理，判断两文本的关系为中立、蕴含、矛盾中的一种。
+
 <br />
 <br />
 
